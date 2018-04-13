@@ -25,5 +25,5 @@ document.addEventListener("online",function(){
 });//document
 
 function escribehistoria(accion){
-	$('#ehistoria').append('<li>'+accion+'</li>');
+	$('#eHistoria').append('<li>'+accion+'</li>');
 }
